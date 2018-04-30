@@ -1,0 +1,9 @@
+
+COURSERA_Module_3_Assignment 
+ 
+CREATE TABLE statement and screen snapshot for the Event Plan Line table
+ 
+CREATE TABLE EMPLOYEES
+
+Ibo Luis Cerra Escobar
+https://github.com/ibocerra/COURSERA_Module_3_Assignment
